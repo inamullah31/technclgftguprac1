@@ -1,8 +1,8 @@
 # technclgftguprac1
 code for shayar
  ls
-    2  git log --oneline
-    3  git branch
+    2  git log --oneline/
+    3  git branch/
     4  git branch branch31
     5  git branch
     6  ls
